@@ -5,7 +5,6 @@ import cv2
 
 from src.create_annotations import (create_image_annotation, 
                                     create_annotation_format,
-                                    find_contours,
                                     get_coco_json_format,
                                     create_category_annotation)
 
