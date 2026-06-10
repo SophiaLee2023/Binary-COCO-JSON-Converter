@@ -1,4 +1,4 @@
-*.pyc 
 __pycache__/
-.DS_Store
-/dataset/
+/input
+/output
+./venv
